@@ -1,41 +1,36 @@
-# Project Title (Update)
+# Hello World
 
-Add a description of your project here.
+Simple program to test Github repository upload
 
 ## Instructions for Build and Use
 
 Steps to build and/or run the software:
 
-1. First step here
-2.
-3.
+1. Navigate to /helloworld/Program.cs
+2. Open debug terminal
+3. Use the command dotnet run
 
 Instructions for using the software:
 
-1. First step here
-2.
-3.
+1. Use to generate the output "Hello World"
 
 ## Development Environment
 
 To recreate the development environment, you need the following software and/or libraries with the specified versions:
 
-* First thing here
-*
-*
+* Install DotNet sdk version 10
+* Install an IDE
+* Run program
 
 ## Useful Websites to Learn More
 
 I found these websites useful in developing this software:
 
-* [Website Title](Link)
-*
-*
+* [Hello World](https://www.helloworldcs.org/)
 
 ## Future Work
 
 The following items I plan to fix, improve, and/or add to this project in the future:
 
-* [ ] First thing here
-* [ ]
-* [ ]
+* [ Add multi language support ]
+* [ Add user interaction in the terminal ]
