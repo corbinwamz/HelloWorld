@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "title": "brush teeth",
+    "schedule": [
+      0,
+      2
+    ],
+    "completed_dates": [
+      "2026-09-21"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Sleep",
+    "schedule": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "completed_dates": []
+  }
+]
